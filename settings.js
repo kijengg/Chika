@@ -19,19 +19,19 @@ global.APIKeys = {
 
 // Other
 global.owner = ['6283156715878','6283156715878','6283156715878']
-global.premium = ['6283156715878']
+global.premium = ['62,8991344802']
 global.ownernomer = '6283156715878'
 global.ownername = 'Arthur satir'
-global.botname = 'Arthur-Md'
+global.botname = 'KyzheBOT-MD'
 global.footer = 'Arthur'
 global.ig = 'https://instagram.com/reihan_arthur?igshid=YmMyMTA2M2Y='
-global.email = 'reihanarthur33@gmail.com'
+global.email = 'maulanadisqi@gmail.com'
 global.region = 'Indonesia'
 global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.myweb = 'https://bit.ly/3Om8D5j'
-global.packname = 'Arthur-Md'
+global.packname = 'KyzheBOT-MD'
 global.author = 'omaga'
-global.sessionName = 'chika'
+global.sessionName = 'kijemd'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
